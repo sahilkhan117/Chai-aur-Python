@@ -1,4 +1,4 @@
-# 🌟How to open files
+# 🌟 How to open files
 
 # 1️⃣
 # file = open('./my.txt', 'w')
